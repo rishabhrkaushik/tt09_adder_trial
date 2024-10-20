@@ -22,34 +22,34 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[0]: "in 1"
+  ui[1]: "in 2"
+  ui[2]: "in 3"
+  ui[3]: "in 4"
+  ui[4]: "in 5"
+  ui[5]: "in 6"
+  ui[6]: "in 7"
+  ui[7]: "in 8"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "out2 1"
+  uo[1]: "out2 2"
+  uo[2]: "out2 3"
+  uo[3]: "out2 4"
+  uo[4]: "out2 5"
+  uo[5]: "out2 6"
+  uo[6]: "out2 7"
+  uo[7]: "out2 8"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "in2 1"
+  uio[1]: "in2 2"
+  uio[2]: "in2 3"
+  uio[3]: "in2 4"
+  uio[4]: "in2 5"
+  uio[5]: "in2 6"
+  uio[6]: "in2 7"
+  uio[7]: "in2 8"
 
 # Do not change!
 yaml_version: 6
